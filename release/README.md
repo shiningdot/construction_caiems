@@ -19,7 +19,7 @@ release/
     └── corpus/                  public statutes, category cards, standards manifest
 ```
 
-Core code lives in the project repository: <https://github.com/shiningdot/construction_agent> (MIT).
+Core code lives in the project repository: <https://github.com/shiningdot/construction_agent/tree/paper-release> (MIT).
 Prompt templates and experiment/evaluation scripts are provided on request.
 The release accompanies the manuscript. Requests for the controlled-access materials (reference labels, prompt templates, experiment and evaluation scripts) go to suntianhao@njtech.edu.cn.
 
