@@ -1,0 +1,24 @@
+Data License — Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The de-identified data snapshot released with this project — the CAICS accident
+database snapshot (structured accident attributes, cause codes, and masked
+supporting evidence) and the public part of the retrieval corpus (laws and
+administrative regulations, category cards, corpus manifest) — is licensed
+under the Creative Commons Attribution 4.0 International License.
+
+You are free to share (copy and redistribute the material in any medium or
+format) and to adapt (remix, transform, and build upon the material) for any
+purpose, even commercially, provided that you give appropriate credit, provide
+a link to the license, and indicate if changes were made.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution: Sun Tianhao et al., "A Causation Extraction Pipeline for
+Construction Accidents Based on the CAICS Coding System", 2026.
+
+Excluded from this license:
+- Raw third-party news reports, textbook cases, and investigation reports.
+- Full texts of GB/GB/T national standards (identified by number and title only).
+- The 300-case expert annotation set, which is governed by a separate
+  data-use agreement.
+- Any personal identifiers removed from the released snapshot.

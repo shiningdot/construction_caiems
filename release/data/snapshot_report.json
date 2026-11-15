@@ -1,0 +1,42 @@
+{
+ "accidents": 2601,
+ "causes": 15838,
+ "kept_columns": [
+  "id",
+  "publish_date",
+  "date",
+  "accident_time",
+  "province",
+  "city",
+  "district",
+  "weather",
+  "project_type",
+  "building_structure",
+  "construction_phase",
+  "work_task",
+  "contractor_type",
+  "accident_type",
+  "severity",
+  "deaths",
+  "injuries",
+  "trapped_count",
+  "direct_economic_loss",
+  "collapse_subtype",
+  "fall_height",
+  "equipment_involved",
+  "material_involved",
+  "worker_type",
+  "report_type",
+  "text_type",
+  "classification_verdict",
+  "classification_confidence",
+  "source_count",
+  "work_task_enum"
+ ],
+ "residual_after_mask": {
+  "身份证": 0,
+  "姓名": 3,
+  "手机": 2,
+  "公司": 173
+ }
+}
